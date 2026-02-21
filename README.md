@@ -1,8 +1,9 @@
 # SPUI Digital Resources
 
 SPUI Digital Resources is a web-based digital learning platform developed for
-Saint Paul University Iloilo. The system allows students to access digital books
-and academic resources online, replacing traditional printed materials.
+Saint Paul University Iloilo. The system allows students and teachers to access
+digital books and academic resources online, replacing traditional printed
+materials.
 
 🌐 **Live System:** https://spuidigitalbooks.com
 
@@ -11,9 +12,9 @@ and academic resources online, replacing traditional printed materials.
 ## 🎯 Project Overview
 
 SPUI Digital Resources is a production-ready MEAN stack application designed for
-Senior High School students. It provides a centralized digital platform where
-students can read assigned learning materials, while administrators manage
-digital resources through a secure admin interface.
+Senior High School education. It provides a centralized digital platform where
+students and teachers access assigned learning materials, while administrators
+maintain full control over system content and user access.
 
 The system is actively used in an academic environment and maintained by the
 developer.
@@ -29,7 +30,7 @@ developer.
 **Backend**
 - Node.js
 - Express.js (JavaScript, ES Modules)
-- Hosted on AWS EC2
+- Hosted on AWS Elastic Beanstalk
 
 **Database**
 - MongoDB Atlas
@@ -37,7 +38,7 @@ developer.
 **Infrastructure**
 - AWS S3 (static hosting)
 - AWS CloudFront (CDN)
-- AWS EC2 (API server)
+- AWS Elastic Beanstalk (Backend API)
 - HTTPS via AWS ACM
 
 ---
@@ -45,14 +46,22 @@ developer.
 ## 👤 User Roles
 
 ### Admin
-- Admin accounts are created manually (no public registration)
-- Upload and manage digital books and resources
-- Manage book metadata and cover images
-- Control resource availability
+- Manually created admin accounts (no public registration)
+- Full system access and control
+- Manage all digital books and resources
+- Review, edit, and manage content uploaded by teachers
+- Manage book metadata, cover images, and availability
+- Control user access and permissions
+
+### Teacher
+- Secure login access
+- Upload and manage their own digital books and resources
+- Manage book metadata and cover images for their uploads
+- Use the platform to support classroom instruction
 
 ### Student
 - Secure login access
-- Read assigned digital books and resources
+- Read assigned digital books and academic resources
 - Access materials anytime through the web platform
 
 ---
@@ -60,11 +69,12 @@ developer.
 ## ✨ Key Features
 
 - Role-based authentication and authorization
+- Teacher-managed content with admin oversight
 - Digital book and resource management
 - Book cover image upload support
 - Clean, modern reading interface
 - Cloud-based deployment with scalable architecture
-- Separation of frontend and backend services
+- Clear separation of frontend and backend services
 
 ---
 
@@ -81,8 +91,8 @@ The system is live and accessible at:
 ## 🗂 Project Architecture (High-Level)
 
 - Angular frontend served via AWS S3 and CloudFront
-- Frontend communicates with Express REST API
-- Backend hosted on AWS EC2
+- Frontend communicates with an Express REST API
+- Backend deployed using AWS Elastic Beanstalk
 - MongoDB Atlas used for persistent data storage
 
 This architecture allows independent scaling, secure data handling, and
@@ -102,7 +112,7 @@ This repository contains **documentation only**.
 ## 📌 Project Status
 
 - ✅ Deployed in production
-- ✅ Actively used by students
+- ✅ Actively used by students and teachers
 - ✅ Maintained and improved by the developer
 
 ---
