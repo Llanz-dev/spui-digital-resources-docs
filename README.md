@@ -112,7 +112,7 @@ This repository contains **documentation only**.
 Developed and maintained by  
 **Llanz Kenneth Luy**
 
-MEAN Stack Developer | Coding Instructor | Aspiring AI Engineer
+MEAN Stack Developer | Coding Instructor | Aspiring Computer Vision Engineer
 
 ---
 
