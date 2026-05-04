@@ -16,8 +16,7 @@ Senior High School education. It provides a centralized digital platform where
 students and teachers access assigned learning materials, while administrators
 maintain full control over system content and user access.
 
-The system is actively used in an academic environment and maintained by the
-developer.
+The system is actively used in an academic environment and maintained by me.
 
 ---
 
@@ -113,7 +112,19 @@ This repository contains **documentation only**.
 
 - ✅ Deployed in production
 - ✅ Actively used by students and teachers
-- ✅ Maintained and improved by the developer
+- ✅ Maintained and improved by me
+
+---
+
+## 🎥 Demo
+
+Watch the system in action:
+
+👉 [Click here to view the demo](https://drive.google.com/file/d/1sQPQ0Ou6svHHY8nk0UuoPcbXcaa2Ixys/view?usp=drive_link)
+
+> This demo showcases the core features of **SPUI Digital Resources**, including:
+> - 📚 Digital book browsing and reading
+> - 🧑‍🏫 Admin and Teacher management features
 
 ---
 
