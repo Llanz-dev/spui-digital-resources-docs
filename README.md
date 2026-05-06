@@ -5,8 +5,6 @@ Saint Paul University Iloilo. The system allows students and teachers to access
 digital books and academic resources online, replacing traditional printed
 materials.
 
-🌐 **Live System:** https://spuidigitalbooks.com
-
 ---
 
 ## 🎯 Project Overview
@@ -72,13 +70,13 @@ SPUI Digital Resources is a production-ready MEAN stack application designed for
 
 ---
 
-## 🚀 Live Deployment
+## 🚀 Deployment
 
-The system is live and accessible at:
+🔒 The system was deployed in a controlled production environment (private access)
 
-🔗 https://spuidigitalbooks.com
-
-⚠️ Access to the system is restricted to authorized users only.
+- ✅ Completed a successful 1-month pilot implementation
+- ✅ Used by real students and teachers in an academic setting
+- ✅ Demonstrated reliability and practical usability
 
 ---
 
@@ -105,9 +103,9 @@ This repository contains **documentation only**.
 
 ## 📌 Project Status
 
-- ✅ Deployed in production
-- ✅ Actively used by students and teachers
-- ✅ Maintained and improved by me
+- ✅ Completed and successfully deployed
+- ✅ Piloted and used in a real academic environment for 1 month
+- ✅ Validated through actual usage by students and teachers
 
 ---
 
