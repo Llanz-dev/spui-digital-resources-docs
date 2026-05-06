@@ -11,12 +11,7 @@ materials.
 
 ## 🎯 Project Overview
 
-SPUI Digital Resources is a production-ready MEAN stack application designed for
-Senior High School education. It provides a centralized digital platform where
-students and teachers access assigned learning materials, while administrators
-maintain full control over system content and user access.
-
-The system is actively used in an academic environment and maintained by me.
+SPUI Digital Resources is a production-ready MEAN stack application designed for Senior High School education. It has been successfully deployed as a pilot system and utilized in a real academic environment for one month, demonstrating its reliability and effectiveness. The platform provides a centralized digital space where students and teachers can seamlessly access assigned learning materials, while administrators maintain full control over content management and user access.
 
 ---
 
